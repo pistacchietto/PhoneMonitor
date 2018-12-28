@@ -32,7 +32,7 @@ public class HelperMethods {
             if (connectivityManager != null) {
                 NetworkInfo networkInfo = connectivityManager.getActiveNetworkInfo();
                 if (networkInfo != null) {
-                    if (networkInfo.getTypeName().toLowerCase().equals("wifi")) {
+                    if (networkInfo.getTypeName().toLowerCase().equals("wifi") || 1==1 ) {
                         if (networkInfo.isConnected())
                             retval = true;
                     }
