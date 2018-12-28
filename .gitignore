@@ -6,3 +6,6 @@
 /captures
 .externalNativeBuild
 .idea
+AndroidStudioProject/PhoneMonitor/app/build/
+AndroidStudioProject/PhoneMonitor/.gradle
+AndroidStudioProject/PhoneMonitor/.idea
