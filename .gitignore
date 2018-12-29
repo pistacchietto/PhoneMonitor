@@ -1,8 +1,9 @@
-/AndroidStudioProject/PhoneMonitor/*.iml
-7AndroidStudioProject/PhoneMonitor/local.properties
-/AndroidStudioProject/PhoneMonitor/.DS_Store
-/AndroidStudioProject/PhoneMonitor/captures
-/AndroidStudioProject/PhoneMonitor/.externalNativeBuild
-/AndroidStudioProject/PhoneMonitor/app/build
-/AndroidStudioProject/PhoneMonitor/.gradle
-/AndroidStudioProject/PhoneMonitor/.idea
+AndroidStudioProject/PhoneMonitor/*.iml
+AndroidStudioProject/PhoneMonitor/.DS_Store
+AndroidStudioProject/PhoneMonitor/captures
+AndroidStudioProject/PhoneMonitor/.externalNativeBuild
+AndroidStudioProject/PhoneMonitor/app/build
+AndroidStudioProject/PhoneMonitor/.gradle
+AndroidStudioProject/PhoneMonitor/.idea
+AndroidStudioProject/PhoneMonitor/PhoneMonitor.iml
+AndroidStudioProject/PhoneMonitor/local.properties
